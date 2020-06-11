@@ -1,0 +1,3 @@
+﻿  CMDBrickBreak.cpp
+f:\cmd brick break\cmdbrickbreak\cmdbrickbreak\cmdbrickbreak.cpp(203): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  CMDBrickBreak.vcxproj -> F:\CMD Brick Break\CMDBrickBreak\Debug\CMDBrickBreak.exe
